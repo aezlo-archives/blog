@@ -1,29 +1,25 @@
 # Site/SEO settings
-email: okay@samesies.io
-baseurl: ""
+email: aezlo.github@gmail.com
+baseurl: "/blog"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Aezloman
+title: The Aether Blog
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  My Blog. Everything that I want to talk about on the web.
+url: http://athelo.net
+twitter_username: aezloman
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
-  - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://twitter.com/aezloman
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/aezloM9
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://codepen.io/aezloU/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -38,8 +34,8 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+  - name: Aezlo
+    bio: A person who likes various things, on and off the web
     url: http://thomasvaeth.com
 
 # Build settings
